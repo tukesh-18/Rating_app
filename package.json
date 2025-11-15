@@ -1,0 +1,24 @@
+{
+  "name": "roxiller",
+  "version": "1.0.0",
+  "description": "Assignment for the roxiiler systems for full stack developer Role",
+  "homepage": "https://github.com/tukesh-18/Rating_app#readme",
+  "bugs": {
+    "url": "https://github.com/tukesh-18/Rating_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tukesh-18/Rating_app.git"
+  },
+  "license": "ISC",
+  "author": "Tukesh",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.4"
+  }
+}
